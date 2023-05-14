@@ -6,7 +6,7 @@ You can view the demonstration video to get an idea of how it works or follow th
 
 1. Download the files from my repository and place them in a single folder:
 
-2.Install "virtualenv":
+2. Install "virtualenv":
 ```
 pip install virtualenv
 ```
@@ -31,7 +31,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-7. create the database
+7. Create the database
 ```
 python
 from app import app, db
