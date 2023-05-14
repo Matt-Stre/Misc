@@ -11,7 +11,7 @@ You can view the demonstration video to get an idea of how it works or follow th
 pip install virtualenv
 ```
 
-3. Open a terminal in the folder and run:
+3. Open a terminal in the root directory and run:
 ```
 virtualenv env
 ```
