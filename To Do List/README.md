@@ -1,6 +1,6 @@
 This project involved creating a simple to do list.
 
-You can view the demonstration video to get an idea of how it works or follow the steps below to run it on your own computer.
+You can view the [project demonstration video](https://www.youtube.com/watch?v=0W6AUUagnMU&list=PLBlf9mIHOKqO5mws-3M7DXh0nsVOzxP9S) to get an idea of how it works or follow the steps below to run it on your own computer.
 
 ## Steps to Run
 
